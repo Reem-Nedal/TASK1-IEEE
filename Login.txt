@@ -1,0 +1,29 @@
+<! DECTYPE html>
+
+<html>
+
+<head>
+
+<style>
+html{margin-left:350px;background-image:url('6.jpg');
+       background-attachment: fixed;
+          background-size: cover;margin-right:350;}
+</style>
+
+
+
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
